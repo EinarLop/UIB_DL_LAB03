@@ -1,0 +1,14 @@
+name: UIB-DL
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch
+  - torchvision
+  - pillow
+  - tqdm
+  - matplotlib
+  - jupyter
+  - jupyterlab
+  - ipykernel
