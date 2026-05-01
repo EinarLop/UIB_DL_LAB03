@@ -1,1 +1,8 @@
 images
+__pycache__
+archive
+data
+.claude
+checkpoints_A
+checkpoints_B
+.DS_Store
