@@ -3,6 +3,5 @@ __pycache__
 archive
 data
 .claude
-checkpoints_A
-checkpoints_B
+checkpoints_*
 .DS_Store
